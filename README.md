@@ -13,7 +13,7 @@ The layout felt a bit bland at first, so I added a gradient background, gave it 
 HTML5 & CSS3 CSS Grid VSCode + Live Server
 
 🔗 Live Site & Repo
-🌐 Live Site: ( ) 📁 GitHub Repo: (https://github.com/KodingHoodie/Emogrid)
+🌐 Live Site: (https://emogrid.netlify.app/) 📁 GitHub Repo: (https://github.com/KodingHoodie/Emogrid)
 
 🙌 Why This Matters
 This project helped me push through confusion, trust my instincts, keep momentum going and keep on chucking forward. It’s a reminder: ship what you have, reflect later, and keep building.
